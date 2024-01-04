@@ -23,4 +23,5 @@ int main()
     }
 
     cout << "Sum of the series is " << sum << endl;
+    // or make pairs of two and the answer is  -(n/2) if n is even , if n is odd (-(n-1)/2 + n)
 }
